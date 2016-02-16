@@ -8,33 +8,18 @@ gulpfile I am using for node server (though node app.js file is not in repo yet 
 
 # directory structure:
 |- BASEDIR/  
-
      |- dev/
-     
          |- projectdir/
-         
              |- css
-             
              |- img
-             
              |- js
-             
              |- less
-             
      |- lib/
-     
      |- public/
-     
          |- css/
-         
          |- fonts/
-         
          |- img/ 
-         
          |- js/ 
-         
     |- app.js
-    
     |- gulpfile.js
-    
     |- package.json
